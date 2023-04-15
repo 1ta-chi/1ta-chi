@@ -11,6 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 关于我
-- 👋 ...
-- 实习中，努力提升自己 . . .  
--- 2023/4/15
+- 👋  . . .
+- 实习中，努力提升自己 . . . `2023/4/5`
