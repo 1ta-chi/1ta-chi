@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 # 关于我
 - 👋 ...
-- 实习中，努力提升自己 . . .  <font color="rgba(255, 255, 255, 0.5)">2023/4/15</font>
+- 实习中，努力提升自己 . . .  -- 2023/4/15
